@@ -1,0 +1,10 @@
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\obj\Debug\Allocation_Check.Properties.Resources.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\obj\Debug\Allocation Check.csproj.GenerateResource.Cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\obj\Debug\Allocation_Check.WorkspaceAddIn.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\bin\Debug\Allocation Check.dll.config
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\bin\Debug\Allocation Check.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\bin\Debug\Allocation Check.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\obj\Debug\Allocation Check.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Allocation Check\Allocation Check\obj\Debug\Allocation Check.pdb
